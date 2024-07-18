@@ -1,4 +1,4 @@
-# The US accident
+# The US Accident
 
 TList of Questions :
 How do different times of the day affect accident severity/visibility?
